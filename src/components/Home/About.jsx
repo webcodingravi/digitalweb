@@ -68,11 +68,12 @@ const About = () => {
       transition={{ duration: 0.8 }}
     >
       <span className="bg-cyan-500/10 border border-cyan-400/20 text-cyan-300 px-5 py-2 rounded-full text-sm uppercase tracking-widest">
-        About Company
+        About G Tech
       </span>
 
       <h2 className="text-5xl font-black mt-8 leading-tight">
-        We Create Powerful
+
+        <span className='block text-white'>We Create Powerful</span>
         <span className="block bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
           Digital Experiences
         </span>

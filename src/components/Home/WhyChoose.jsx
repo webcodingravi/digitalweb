@@ -13,10 +13,9 @@ const WhyChoose = () => {
     Why Choose Us
   </span>
 
-  <h2 className="text-5xl md:text-6xl font-black text-white mt-8 leading-tight pb-3">
-    Why Brands Trust
-    <span className="block bg-gradient-to-r from-cyan-400 via-blue-500 to-indigo-500 bg-clip-text text-transparent">
-      G Tech Solutions
+  <h2 className="text-4xl md:text-5xl font-black text-white mt-8 leading-tight pb-3">
+    Why Brands Trust <span className="bg-gradient-to-r from-cyan-400 via-blue-500 to-indigo-500 bg-clip-text text-transparent">
+      G Tech
     </span>
   </h2>
 

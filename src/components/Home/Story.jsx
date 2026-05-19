@@ -210,7 +210,7 @@ const Story = () => {
               >
 
                 {/* DOT */}
-                <div className="absolute -left-[82px] top-12 w-6 h-6 rounded-full bg-gradient-to-r from-cyan-400 to-blue-600 border-4 border-[#050816] shadow-[0_0_25px_rgba(59,130,246,0.8)] z-20"></div>
+                <div className="absolute -left-[88px] top-12 w-6 h-6 rounded-full bg-gradient-to-r from-cyan-400 to-blue-600 border-4 border-[#050816] shadow-[0_0_25px_rgba(59,130,246,0.8)] z-20"></div>
 
                 {/* CARD */}
                 <motion.div
