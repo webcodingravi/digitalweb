@@ -193,20 +193,20 @@ const HeroSection = () => {
                 <img
                   src="/assets/company-partner/imgi_25_bluestar-removebg-preview-1.png"
                   alt=""
-                  className="h-[100px] opacity-70 hover:opacity-100 transition"
+                  className="h-[200px] opacity-70 hover:opacity-100 transition"
                 />
 
                 <img
                   src="/assets/company-partner/imgi_22_y1-10-removebg-preview-1.png"
                   alt=""
-                  className="h-[100px] opacity-70 hover:opacity-100 transition"
+                  className="h-[120px] opacity-70 hover:opacity-100 transition"
                 />
 
                 {/* Duplicate Logos */}
                 <img
                   src="/assets/company-partner/imgi_17_reliance-retail-logo.png"
                   alt=""
-                  className="h-[100px] opacity-70 hover:opacity-100 transition"
+                  className="h-[200px] opacity-70 hover:opacity-100 transition"
                 />
 
                 <img
