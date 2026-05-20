@@ -35,7 +35,7 @@ const Timeline3 = () => {
           </div>
 
           {/* Contact Modal */}
-          <div className="opacity-0 group-hover:opacity-100 transition duration-500 absolute top-20 -left-10 w-80 bg-white rounded-3xl shadow-2xl p-6 z-50">
+          {/* <div className="opacity-0 group-hover:opacity-100 transition duration-500 absolute top-20 -left-10 w-80 bg-white rounded-3xl shadow-2xl p-6 z-50">
             <h2 className="text-3xl font-bold text-gray-800 mb-5">Contact Us</h2>
             <input
               type="text"
@@ -55,7 +55,7 @@ const Timeline3 = () => {
             <button className="w-full bg-blue-700 hover:bg-blue-800 text-white py-4 rounded-xl font-bold transition duration-300">
               Send Message
             </button>
-          </div>
+          </div> */}
         </div>
 
 {/* ABOUT US POINTER */}
